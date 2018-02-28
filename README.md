@@ -1,0 +1,1 @@
+This is a reference page to set essential google map properties as per requirement.
